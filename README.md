@@ -1,9 +1,8 @@
-## Welcome to GitHub Games
+## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-
-You can play the gameasd at: https://githubschool.github.io/github-games/
+You can play the game at: https://ADii140.github.io/github-games/
 
 ### Instructions for playing the game
 
